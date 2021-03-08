@@ -22,7 +22,7 @@ export const homeObjTwo = {
     "We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime",
   buttonLabel: "Learn More",
   imgStart: "",
-  img: "images/cocoa2.jpeg",
+  img: "images/img-000.jpg",
   alt: "Vault",
 };
 
