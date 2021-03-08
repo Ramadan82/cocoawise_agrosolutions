@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: "Welcome to Cocoawise Agro Solutions",
-  headline: "The Ultimate in Cocoa Busines",
+  headline: "The Ultimate in Cocoa Business",
   description:
     "Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees",
   buttonLabel: "Get Started",
