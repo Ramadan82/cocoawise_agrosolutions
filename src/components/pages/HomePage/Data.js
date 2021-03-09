@@ -5,7 +5,7 @@ export const homeObjOne = {
   topLine: "Welcome to Cocoawise Agro Solutions",
   headline: "The Ultimate in Cocoa Business",
   description:
-    "Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees",
+    "Are you a cocoa farmer? a company that needs cocoa for it's business? or just simply an agent for cocoa farmers? Whatever your line of business in the cocoa world, we have the right plan for you.  ",
   buttonLabel: "Get Started",
   imgStart: "",
   img: "images/cocoa1.jpeg",
